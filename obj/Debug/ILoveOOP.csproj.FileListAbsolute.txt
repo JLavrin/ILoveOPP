@@ -1,0 +1,7 @@
+C:\Users\julia\RiderProjects\ConsoleApplication3\ILoveOOP\bin\Debug\ILoveOOP.exe
+C:\Users\julia\RiderProjects\ConsoleApplication3\ILoveOOP\bin\Debug\ILoveOOP.pdb
+C:\Users\julia\RiderProjects\ConsoleApplication3\ILoveOOP\obj\Debug\ILoveOOP.csproj.AssemblyReference.cache
+C:\Users\julia\RiderProjects\ConsoleApplication3\ILoveOOP\obj\Debug\ILoveOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\RiderProjects\ConsoleApplication3\ILoveOOP\obj\Debug\ILoveOOP.csproj.CoreCompileInputs.cache
+C:\Users\julia\RiderProjects\ConsoleApplication3\ILoveOOP\obj\Debug\ILoveOOP.exe
+C:\Users\julia\RiderProjects\ConsoleApplication3\ILoveOOP\obj\Debug\ILoveOOP.pdb
